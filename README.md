@@ -1,7 +1,7 @@
-# Unit Tests in FizzBuzz Class
+# Testes Unitários na classe FizzBuzz
 
-## Unit tests in the FizzBuzz class, the FizzBuzz algorithm classifies a number entered by the user following the logic below:
-- Number divisible by 3 returns "Fizz";
-- Number divisible by 5 returns "Buzz";
-- Number divisible by 3 and 5 returns "FizzBuzz";
-- Other numbers return the number itself with a String value.
+## Testes unitários na classe FizzBuzz, o algoritmo FizzBuzz classifica um número digitado pelo usuário seguindo a lógica abaixo:
+- Número divisível por 3 retorna "Fizz";
+- Número divisível por 5 retorna "Buzz";
+- Número divisível por 3 e 5 retorna "FizzBuzz";
+- Outros números retornam o próprio número com um valor String.
